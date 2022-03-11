@@ -1,0 +1,52 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}  
+.fot{
+    height: 0px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.center{
+    text-align: center;
+}
+
+/*.row{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 0px;
+
+}*/
+
+
+.row > div{
+    background: #f2f2f2;
+    padding: 5px;
+    border: 10px solid white;
+  }
+
+.resdes1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.redes-f li{
+    list-style: none;
+    margin: 10px;
+}
+
+.redes-f{
+    float:center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}  
